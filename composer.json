@@ -25,7 +25,7 @@
     "php": ">=7.4",
     "laravel/framework": ">=8.0",
     "silvanite/brandenburg": "^1.0",
-    "metadeck/novafieldcheckboxes": "dev-nova-4"
+    "metadeck/novafieldcheckboxes": "dev-master"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": ">=3.1",
